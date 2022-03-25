@@ -2,7 +2,7 @@ import 'package:pokedex/bloc/pokemon_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'bloc/nav_cubit.dart';
+import 'bloc/nav_bloc.dart';
 import 'bloc/pokemon_state.dart';
 
 class PokedexView extends StatelessWidget {

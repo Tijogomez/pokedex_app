@@ -3,7 +3,7 @@ import 'package:pokedex/pokemon_details_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'bloc/nav_cubit.dart';
+import 'bloc/nav_bloc.dart';
 
 class AppNavigator extends StatelessWidget {
   @override
